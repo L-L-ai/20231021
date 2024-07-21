@@ -2,7 +2,7 @@
 int main(void)
 {
 
-	printf("testing code1../n");
+	printf("testing code0../n");
 	printf("testing code2../n");
 	printf("testing code3../n");
 	printf("testing code4../n");
